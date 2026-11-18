@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 90" fill="none">
+  <defs>
+    <linearGradient id="goldGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4AF37"/>
+      <stop offset="50%" stop-color="#F5DE88"/>
+      <stop offset="100%" stop-color="#AA8220"/>
+    </linearGradient>
+    <linearGradient id="roseGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F2A6AC"/>
+      <stop offset="100%" stop-color="#DE7A85"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Large Prominent Emblem Badge -->
+  <g transform="translate(8, 8)">
+    <rect x="0" y="0" width="74" height="74" rx="18" fill="#1C1819" />
+    <rect x="2" y="2" width="70" height="70" rx="16" stroke="url(#goldGrad2)" stroke-width="2" fill="none"/>
+    
+    <!-- Lotus / Foot Silhouette stylized flourish -->
+    <path d="M37 16 C30 24 22 32 22 43 C22 53 28 60 37 60 C46 60 52 53 52 43 C52 32 44 24 37 16 Z" fill="url(#roseGrad2)" opacity="0.88"/>
+    <path d="M37 22 C33 30 26 39 26 47 C26 53 31 57 37 57 C43 57 48 53 48 47 C48 39 41 30 37 22 Z" fill="#FFFDF8" opacity="0.95"/>
+    <path d="M37 28 L39 36 L46 38 L39 40 L37 47 L35 40 L28 38 L35 36 Z" fill="url(#goldGrad2)"/>
+    <circle cx="37" cy="67" r="2.5" fill="url(#goldGrad2)"/>
+  </g>
+  
+  <!-- Bold High-Visibility Brand Text -->
+  <text x="96" y="40" font-family="'Playfair Display', Georgia, serif" font-size="28" font-weight="800" letter-spacing="0.5" fill="#171415">MURUNJI'S</text>
+  <text x="97" y="60" font-family="'Calibri', 'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="800" letter-spacing="2.5" fill="#B78628">FOOT HAVEN &amp; NAIL BAR</text>
+  <text x="97" y="74" font-family="'Calibri', 'Plus Jakarta Sans', sans-serif" font-size="10.5" font-weight="700" letter-spacing="1.5" fill="#786F70">LUSAKA • SPA &amp; SALON</text>
+</svg>
